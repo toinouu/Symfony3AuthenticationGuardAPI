@@ -1,5 +1,7 @@
 # Symfony3AuthenticationGuardAPI
 
+[![Build Status](https://travis-ci.org/Tony133/Symfony3AuthenticationGuardAPI.svg?branch=master)](https://travis-ci.org/Tony133/Symfony3AuthenticationGuardAPI)
+
 Simple Example Symfony 3 Authentication System with Guard in API
 
 ## Install with Composer
