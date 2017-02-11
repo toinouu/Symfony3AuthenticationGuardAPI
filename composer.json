@@ -1,8 +1,8 @@
 {
-    "name": "symfony/framework-standard-edition",
+    "name": "tony133/symfony-authentication-guard-api",
     "license": "MIT",
     "type": "project",
-    "description": "The \"Symfony Standard Edition\" distribution",
+    "description": "Simple Example Symfony 3 Authentication System with Guard in API",
     "autoload": {
         "psr-4": { "": "src/" },
         "classmap": [ "app/AppKernel.php", "app/AppCache.php" ]
