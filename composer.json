@@ -1,5 +1,5 @@
 {
-    "name": "tony133/symfony-authentication-guard-api",
+    "name": "tony133/symfony3-authentication-guard-api",
     "license": "MIT",
     "type": "project",
     "description": "Simple Example Symfony 3 Authentication System with Guard in API",
