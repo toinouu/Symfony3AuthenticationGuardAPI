@@ -11,7 +11,7 @@ Simple Example Symfony 3 Authentication System with Guard in API
     $ php composer.phar install or composer install
 ```
 
-## Getting Authentication User with Curl
+## Getting Authentication User Token with Curl
 
 ```
     $ curl -X GET  http://127.0.0.1:8000/api/hello -H "X-AUTH-TOKEN:happyapi"
